@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**SubhamSG7/SubhamSG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate web developer and educator with experience in **Node.js**, **React**, and **MongoDB**.
 
-Here are some ideas to get you started:
+## 🏆 Achievements
+- 🥇 **Hackathon Winner**: 1st place in XYZ Hackathon 2023.
+- 🌟 **Mentored** 1,000+ students in web development.
+- 💼 **Worked with** Bytexl ,Numetry Technologies,Tops Technologies and Cimet India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [School CRM](https://github.com/subhamsg7/school-crm) - Comprehensive CRM built with Node.js and MongoDB.
+- [RMS App](https://github.com/subhamsg7/craver-app) - RMS build using MERN stack.
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsg7&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+[LinkedIn](https://linkedin.com/in/subham-das-160ab8204)
