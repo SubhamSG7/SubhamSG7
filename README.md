@@ -4,7 +4,6 @@
 I'm a passionate web developer and educator with experience in **Node.js**, **React**, and **MongoDB**.
 
 ## 🏆 Achievements
-- 🥇 **Hackathon Winner**: 1st place in XYZ Hackathon 2023.
 - 🌟 **Mentored** 1,000+ students in web development.
 - 💼 **Worked with** Bytexl ,Numetry Technologies,Tops Technologies and Cimet India.
 
