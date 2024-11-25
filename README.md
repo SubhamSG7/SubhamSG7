@@ -1,8 +1,7 @@
-# Hi there! 👋
+# Hi, I'm Subham Das! 👋
 
 ## 👨‍💻 About Me
-I'm a passionate web developer and educator with experience in **Node.js**, **React**, and **MongoDB**.
-# Hi, I'm John Doe! 👋
+I'm a passionate web developer and educator with experience in **Node.js**, **React**, and **MongoDB**
 
 ## 🛠️ Tech Stack
 
